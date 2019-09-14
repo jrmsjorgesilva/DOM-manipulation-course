@@ -1,0 +1,16 @@
+{
+  "name": "dom-js",
+  "version": "0.0.1",
+  "description": "manipulating the DOM",
+  "main": "index.html",
+  "scripts": {
+    "dev": "gulp watch"
+  },
+  "author": "jorge machado",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2"
+  }
+}
